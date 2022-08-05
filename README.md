@@ -4,4 +4,8 @@ different types of coding platforms
 * Hackerrank 
 * code chef 
 * leet code 
+* code force 
+* top coder 
+* codecademy
+
 
